@@ -6,4 +6,4 @@ Ihre Ausarbeitung hat einen Umfang von etwa 4.000 Zeichen * (Teamgröße - 1).
 Git BRanch main   --> final Projekt 
 Git Branch dev    --> active development Branch for Programming
 
-Eventuell Zeichnung fertiges Produkt ?
+Eventuell Zeichnung  UX von der Webseite ?
