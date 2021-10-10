@@ -1,0 +1,5 @@
+Projetkanforderungen:
+
+Ihre Ausarbeitung hat einen Umfang von etwa 4.000 Zeichen * (Teamgröße - 1).
+==> Bedeutung dass 2 * 4000 Zeichen = ~ 8000 Zeilen Code am Ende.
+
